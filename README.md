@@ -14,6 +14,6 @@ $ yarn serve
 ## Description
 
 - Develop Your Apps at `src` folder.
-- Auto rendering and build to `public` folder.
+- Auto rendering and Build to `public` folder on file saved.
 - Auto generated inline-css files to `dist` folder.
 - Enjoy :)
